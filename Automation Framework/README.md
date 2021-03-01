@@ -1,5 +1,5 @@
 
-##Autor: Mariano Panella y Hector Galarraga
+##Autor: Mariano Panella
 
 ## Contexto:
 
